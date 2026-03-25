@@ -39,11 +39,6 @@
 ![MFA](https://img.shields.io/badge/MFA-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-**Networking**
-Load Balancing · Virtual Networks · DNS · Firewalls · Security Groups · WAF · Route Tables
-
-**Compute**
-Virtual Machines (VMs) · Amazon EC2 · VM Scale Sets
 
 **API Management**
 ![Azure APIM](https://img.shields.io/badge/Azure_APIM-0078D4?style=flat&logo=microsoftazure&logoColor=white)
