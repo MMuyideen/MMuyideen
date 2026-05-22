@@ -14,7 +14,13 @@
 
 **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 **Containerization & Orchestration**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -47,6 +53,10 @@
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Application Insights](https://img.shields.io/badge/Application_Insights-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)
+![Gatus](https://img.shields.io/badge/Gatus-29B5E8?style=flat&logo=gatus&logoColor=white)
 
 **Scripting & Automation**
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -59,22 +69,27 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [terraform-modules-and-pipelines](https://github.com/MMuyideen/terraform-modules-and-pipelines) | Reusable Terraform module hub with CI/CD pipeline templates for Azure & AWS | Terraform, GitHub Actions |
+| [Cloud DevOps Labs](https://github.com/MMuyideen/cloud-devops-labs) | End-to-end DevOps learning labs covering Linux, shell scripting, AWS, Docker, Kubernetes, Terraform, Ansible, and observability | AWS, Docker, Kubernetes, Terraform, Ansible, Prometheus, Gatus |
+| [Terraform Modules & Pipeline Templates](https://github.com/MMuyideen/terraform-modules-and-pipelines) | Reusable Terraform module hub with CI/CD pipeline templates for Azure & AWS | Terraform, GitHub Actions |
+| [AKS Terraform with ArgoCD](https://github.com/MMuyideen/AKS-terraform-argocd) | GitOps on Azure Kubernetes using ArgoCD | AKS, Terraform, GitHub Actions, ArgoCD |
+| [AWS EKS Terraform with ArgoCD](https://github.com/MMuyideen/EKS-terraaform-argocd) | EKS cluster with GitOps using ArgoCD | EKS, Terraform, Github Action ArgoCD |
+| [aws-2tier-terraform](https://github.com/MMuyideen/aws-2tier-terraform) | 2-tier AWS architecture with VPC, subnets, and Terraform modules | Terraform, AWS VPC, AWS EC2 |
+| [APIM VNET with terraform](https://github.com/MMuyideen/apim-vnet-terraform) | Azure API Management deployed in an internal VNet with private DNS zones | Terraform, Azure APIM, Azure Networking |
+| [cloud-resume-challenge](https://github.com/MMuyideen/cloud-resume-challenge) | Cloud Resume Challenge implementation | Azure / AWS |
+| [aws-3tier-webapp](https://github.com/MMuyideen/aws-3tier-webapp) | 3-tier web application on AWS with web, app, and database tiers | AWS EC2, Shell, Launch Templates |
+| [aws-static-webapp-cicd](https://github.com/MMuyideen/aws-static-webapp-cicd) | Static website hosting on AWS with CI/CD pipeline | AWS S3, GitHub Actions |
+| [azure-static-webapp-cicd](https://github.com/MMuyideen/azure-static-webapp-cicd) | Static web app on Azure with CI/CD using Azure Pipelines | Azure, Azure Pipelines |
+| [AWS Ec2 Terraform](https://github.com/MMuyideen/aws-ec2-sandbox) | AWS EC2 sandbox environment with VPC, subnets, and security groups | Terraform, AWS EC2, AWS VPC |
 | [azure-vm-terraform](https://github.com/MMuyideen/azure-vm-terraform) | Unified Azure VM deployment supporting Linux & Windows with dynamic OS selection | Terraform, Azure, GitHub Actions |
 | [azure-linux-vm-terraform](https://github.com/MMuyideen/azure-linux-vm-terraform) | Azure Linux VM with automated backend setup and deploy/destroy scripts | Terraform, Azure |
-| [azure-win-vm-terraform](https://github.com/MMuyideen/azure-win-vm-terraform) | Azure Windows VM with backend automation and SSH authentication | Terraform, Azure |
-| [apim-vnet-terraform](https://github.com/MMuyideen/apim-vnet-terraform) | Azure API Management deployed in an internal VNet with private DNS zones | Terraform, Azure APIM |
-| [aws-ec2-sandbox](https://github.com/MMuyideen/aws-ec2-sandbox) | AWS EC2 sandbox environment with VPC, subnets, and security groups | Terraform, AWS |
-| [AWS-CloudOps-week4](https://github.com/MMuyideen/AWS-CloudOps-week4) | EKS cluster with GitOps using ArgoCD | Kubernetes, AWS EKS, ArgoCD |
-| [cloud-resume-challenge](https://github.com/MMuyideen/cloud-resume-challenge) | Cloud Resume Challenge implementation | Azure / AWS |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMuyideen&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMuyideen&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MMuyideen&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MMuyideen&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
