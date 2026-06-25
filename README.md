@@ -73,15 +73,18 @@
 | [Terraform Modules & Pipeline Templates](https://github.com/MMuyideen/terraform-modules-and-pipelines) | Reusable Terraform module hub with CI/CD pipeline templates for Azure & AWS | Terraform, GitHub Actions |
 | [AKS Terraform with ArgoCD](https://github.com/MMuyideen/AKS-terraform-argocd) | GitOps on Azure Kubernetes using ArgoCD | AKS, Terraform, GitHub Actions, ArgoCD |
 | [AWS EKS Terraform with ArgoCD](https://github.com/MMuyideen/EKS-terraaform-argocd) | EKS cluster with GitOps using ArgoCD | EKS, Terraform, Github Action ArgoCD |
+| [aws-3tier-webapp](https://github.com/MMuyideen/aws-3tier-webapp) | 3-tier web application on AWS with web, app, and database tiers | AWS EC2, Shell, Launch Templates |
+| [azure-3tier-webapp](https://github.com/MMuyideen/azure-3tier-webapp) | 3-tier web application on Azure with web, app, and database tiers | Azure VMSS, Shell Scripting, MySQL, CDN, Private Endpoint|
 | [aws-2tier-terraform](https://github.com/MMuyideen/aws-2tier-terraform) | 2-tier AWS architecture with VPC, subnets, and Terraform modules | Terraform, AWS VPC, AWS EC2 |
+| [azure-2tier-terraform](https://github.com/MMuyideen/azure-2tier-terraform) | 2-tier AWS architecture with Vnets, Database, and Terraform modules | Terraform, Azure Virtual Machines, Database |
 | [APIM VNET with terraform](https://github.com/MMuyideen/apim-vnet-terraform) | Azure API Management deployed in an internal VNet with private DNS zones | Terraform, Azure APIM, Azure Networking |
 | [cloud-resume-challenge](https://github.com/MMuyideen/cloud-resume-challenge) | Cloud Resume Challenge implementation | Azure / AWS |
-| [aws-3tier-webapp](https://github.com/MMuyideen/aws-3tier-webapp) | 3-tier web application on AWS with web, app, and database tiers | AWS EC2, Shell, Launch Templates |
 | [aws-static-webapp-cicd](https://github.com/MMuyideen/aws-static-webapp-cicd) | Static website hosting on AWS with CI/CD pipeline | AWS S3, GitHub Actions |
-| [azure-static-webapp-cicd](https://github.com/MMuyideen/azure-static-webapp-cicd) | Static web app on Azure with CI/CD using Azure Pipelines | Azure, Azure Pipelines |
+| [azure-static-webapp-cicd](https://github.com/MMuyideen/azure-static-webapp-cicd) | Static web app on Azure with CI/CD using Azure DevOps | Azure, Azure Pipelines |
+| [Azure Serverless API](https://github.com/MMuyideen/azure-serverless-api) | Azure Serverless API deployment with Terraform | Terraform, Azure APIM, Function App, CDN, App Insights |
 | [AWS Ec2 Terraform](https://github.com/MMuyideen/aws-ec2-sandbox) | AWS EC2 sandbox environment with VPC, subnets, and security groups | Terraform, AWS EC2, AWS VPC |
-| [azure-vm-terraform](https://github.com/MMuyideen/azure-vm-terraform) | Unified Azure VM deployment supporting Linux & Windows with dynamic OS selection | Terraform, Azure, GitHub Actions |
 | [azure-linux-vm-terraform](https://github.com/MMuyideen/azure-linux-vm-terraform) | Azure Linux VM with automated backend setup and deploy/destroy scripts | Terraform, Azure |
+| [azure-win-vm-terraform](https://github.com/MMuyideen/azure-win-vm-terraform) | Azure Windows VM with automated backend setup and deploy/destroy scripts | Terraform, Azure |
 
 ---
 
