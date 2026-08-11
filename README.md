@@ -1,6 +1,15 @@
-# Hi, I'm Muyideen Morenigbade 👋
 
-**Cloud & DevOps Engineer** — I design and automate cloud infrastructure using Infrastructure as Code, CI/CD pipelines, and container orchestration across multiple cloud providers.
+<p align="center">
+  <a href="https://github.com/mmuyideen">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=Hello!%20I'm%20Muyideen%20👋&textBg=true&section=header&reversal=false" alt="Hello! I&#39;m Muyideen" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58F7C3&width=435&lines=Cloud+%26+DevOps+Engineer;Cloud+infrastructure+automation" alt="Typing headlines" />
+</p>
+
 
 ---
 
@@ -85,6 +94,14 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mmuyideen&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -98,3 +115,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muyideen-morenigbade)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MMuyideen)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@muyideen.dev)
+
+
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/MMuyideen">Muyideen with Love</a></i></p>
