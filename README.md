@@ -85,7 +85,7 @@
 | [aws-3tier-webapp](https://github.com/MMuyideen/aws-3tier-webapp) | 3-tier web application on AWS with web, app, and database tiers | AWS EC2, Shell, Launch Templates |
 | [azure-3tier-webapp](https://github.com/MMuyideen/azure-3tier-webapp) | 3-tier web application on Azure with web, app, and database tiers | Azure VMSS, Shell Scripting, MySQL, CDN, Private Endpoint|
 | [aws-2tier-terraform](https://github.com/MMuyideen/aws-2tier-terraform) | 2-tier AWS architecture with VPC, subnets, and Terraform modules | Terraform, AWS VPC, AWS EC2 |
-| [azure-2tier-terraform](https://github.com/MMuyideen/azure-2tier-terraform) | 2-tier AWS architecture with Vnets, Database, and Terraform modules | Terraform, Azure Virtual Machines, Database |
+| [azure-2tier-Webapp](https://github.com/MMuyideen/azure-2tier-webapp) | 2-tier AWS architecture with Vnets, Database, and Terraform modules | Terraform, Azure Virtual Machines, Database |
 | [APIM VNET with terraform](https://github.com/MMuyideen/apim-vnet-terraform) | Azure API Management deployed in an internal VNet with private DNS zones | Terraform, Azure APIM, Azure Networking |
 | [cloud-resume-challenge](https://github.com/MMuyideen/cloud-resume-challenge) | Cloud Resume Challenge implementation | Azure / AWS |
 | [aws-static-webapp-cicd](https://github.com/MMuyideen/aws-static-webapp-cicd) | Static website hosting on AWS with CI/CD pipeline | AWS S3, GitHub Actions |
